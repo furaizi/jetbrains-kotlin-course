@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/assignment.iml" filepath="$PROJECT_DIR$/.idea/modules/assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Mastermind/Task/assignment.Mastermind-Task.iml" filepath="$PROJECT_DIR$/.idea/modules/Mastermind/Task/assignment.Mastermind-Task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Mastermind/Task/assignment.Mastermind-Task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Mastermind/Task/assignment.Mastermind-Task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Mastermind/Task/assignment.Mastermind-Task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Mastermind/Task/assignment.Mastermind-Task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/assignment.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/assignment.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/assignment.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/assignment.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/assignment.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/assignment.util.test.iml" />
+    </modules>
+  </component>
+</project>
