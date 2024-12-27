@@ -1,4 +1,4 @@
-package mastermind
+package module_2.assignment
 
 data class Evaluation(var rightPosition: Int, var wrongPosition: Int)
 
