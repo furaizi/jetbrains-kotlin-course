@@ -16,4 +16,5 @@ Operations:
     zipWithNext - {1, 2, 3, 4} -> {(1, 2), (2, 3), (3, 4)}
     flatten
     flatMap
+    maxBy - max by value
  */
