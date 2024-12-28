@@ -1,4 +1,4 @@
-package module_3.nullability.playground
+package module_3.nullability.playground.null_or_empty
 
 fun main(args: Array<String>) {
     val s1: String? = null
