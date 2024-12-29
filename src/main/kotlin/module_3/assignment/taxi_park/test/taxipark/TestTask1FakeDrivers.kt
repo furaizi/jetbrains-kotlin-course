@@ -5,6 +5,11 @@ import org.junit.Assert
 import org.junit.FixMethodOrder
 import org.junit.Test
 import org.junit.runners.MethodSorters
+import taxipark.*
+import taxipark.TaxiPark
+import taxipark.driver
+import taxipark.taxiPark
+import taxipark.trip
 
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
 class TestTask1FakeDrivers {
