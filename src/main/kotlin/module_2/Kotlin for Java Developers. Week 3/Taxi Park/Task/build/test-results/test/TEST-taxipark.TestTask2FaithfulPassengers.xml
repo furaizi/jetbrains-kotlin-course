@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="module_3.assignment.taxi_park.test.taxipark.TestTask2FaithfulPassengers" tests="8" skipped="0" failures="0" errors="0" timestamp="2024-12-29T16:15:48" hostname="YURII" time="0.007">
+  <properties/>
+  <testcase name="test0" classname="module_3.assignment.taxi_park.test.taxipark.TestTask2FaithfulPassengers" time="0.001"/>
+  <testcase name="test1" classname="module_3.assignment.taxi_park.test.taxipark.TestTask2FaithfulPassengers" time="0.0"/>
+  <testcase name="test2" classname="module_3.assignment.taxi_park.test.taxipark.TestTask2FaithfulPassengers" time="0.001"/>
+  <testcase name="test3" classname="module_3.assignment.taxi_park.test.taxipark.TestTask2FaithfulPassengers" time="0.0"/>
+  <testcase name="test4" classname="module_3.assignment.taxi_park.test.taxipark.TestTask2FaithfulPassengers" time="0.001"/>
+  <testcase name="test5" classname="module_3.assignment.taxi_park.test.taxipark.TestTask2FaithfulPassengers" time="0.001"/>
+  <testcase name="test6" classname="module_3.assignment.taxi_park.test.taxipark.TestTask2FaithfulPassengers" time="0.0"/>
+  <testcase name="test7" classname="module_3.assignment.taxi_park.test.taxipark.TestTask2FaithfulPassengers" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

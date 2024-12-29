@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="module_3.assignment.taxi_park.test.taxipark.TestTask3FrequentPassengers" tests="11" skipped="0" failures="0" errors="0" timestamp="2024-12-29T16:15:48" hostname="YURII" time="0.009">
+  <properties/>
+  <testcase name="test0" classname="module_3.assignment.taxi_park.test.taxipark.TestTask3FrequentPassengers" time="0.0"/>
+  <testcase name="test01" classname="module_3.assignment.taxi_park.test.taxipark.TestTask3FrequentPassengers" time="0.0"/>
+  <testcase name="test02" classname="module_3.assignment.taxi_park.test.taxipark.TestTask3FrequentPassengers" time="0.0"/>
+  <testcase name="test03" classname="module_3.assignment.taxi_park.test.taxipark.TestTask3FrequentPassengers" time="0.0"/>
+  <testcase name="test04" classname="module_3.assignment.taxi_park.test.taxipark.TestTask3FrequentPassengers" time="0.0"/>
+  <testcase name="test05" classname="module_3.assignment.taxi_park.test.taxipark.TestTask3FrequentPassengers" time="0.0"/>
+  <testcase name="test06" classname="module_3.assignment.taxi_park.test.taxipark.TestTask3FrequentPassengers" time="0.0"/>
+  <testcase name="test07" classname="module_3.assignment.taxi_park.test.taxipark.TestTask3FrequentPassengers" time="0.001"/>
+  <testcase name="test08" classname="module_3.assignment.taxi_park.test.taxipark.TestTask3FrequentPassengers" time="0.001"/>
+  <testcase name="test09" classname="module_3.assignment.taxi_park.test.taxipark.TestTask3FrequentPassengers" time="0.0"/>
+  <testcase name="test10" classname="module_3.assignment.taxi_park.test.taxipark.TestTask3FrequentPassengers" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
