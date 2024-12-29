@@ -1,10 +1,16 @@
 package module_3.assignment.taxi_park.test.taxipark
 
-import module_3.assignment.taxi_park.src.taxipark.*
 import org.junit.Assert
 import org.junit.FixMethodOrder
 import org.junit.Test
 import org.junit.runners.MethodSorters
+import taxipark.*
+import taxipark.TaxiPark
+import taxipark.display
+import taxipark.taxiPark
+import taxipark.trip
+import taxipark.passenger
+import taxipark.findFaithfulPassengers
 
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
 class TestTask2FaithfulPassengers {
