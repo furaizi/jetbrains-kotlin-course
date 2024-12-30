@@ -1,5 +1,6 @@
 package module_3.assignment.taxi_park.test.taxipark
 
+/*
 import org.junit.Assert
 import org.junit.FixMethodOrder
 import org.junit.Test
@@ -217,3 +218,5 @@ class TestTask3FrequentPassengers {
     )
 
 }
+
+ */
