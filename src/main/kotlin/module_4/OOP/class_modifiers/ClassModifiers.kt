@@ -27,3 +27,32 @@ data class User(val email: String) {
     var nickname: String? = null
 }
  */
+
+
+/*
+Second part
+
+interface Expr
+class Num(val value: Int) : Expr
+class Sum(val left: Expr, val right: Expr) : Expr
+
+"sealed" modifier restricts class hierarchy: all subclasses must be located in the same file
+
+
+In Java                 In Kotlin               Class declared within another class
+static class A          class A (by default)    nested class
+class A (by default)    inner class A           inner class
+
+"inner" modifier adds a reference to the outer class
+class A {
+    class B
+    inner class C {
+        ...this@A...
+    }
+}
+
+
+Class delegation
+class Controller(repository: Repository, logger: Logger) : Repository by repository, Logger by logger
+implements an interface by delegating to...
+ */
