@@ -1,4 +1,4 @@
-package rationals
+package module_4.assignment.rationals.src.rationals
 
 import java.math.BigInteger
 

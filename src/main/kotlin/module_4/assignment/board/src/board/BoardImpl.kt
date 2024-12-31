@@ -1,6 +1,6 @@
-package board
+package module_4.assignment.board.src.board
 
-import board.Direction.*
+import module_4.assignment.board.src.board.Direction.*
 
 fun createSquareBoard(width: Int): SquareBoard = SquareBoardImpl(width)
 fun <T> createGameBoard(width: Int): GameBoard<T> = GameBoardImpl(width)

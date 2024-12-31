@@ -1,9 +1,9 @@
 type: edu
 files:
-  - name: src/board/Board.kt
+  - name: ../../../../module_4/assignment/board/src/board/Board.kt
     visible: true
     learner_created: false
-  - name: src/board/BoardImpl.kt
+  - name: ../../../../module_4/assignment/board/src/board/BoardImpl.kt
     visible: true
     placeholders:
       - offset: 90
@@ -25,10 +25,10 @@ files:
         selected: true
         status: Unchecked
     learner_created: false
-  - name: test/board/TestGameBoard.kt
+  - name: ../../../../module_4/assignment/board/test/board/TestGameBoard.kt
     visible: true
     learner_created: false
-  - name: test/board/TestSquareBoard.kt
+  - name: ../../../../module_4/assignment/board/test/board/TestSquareBoard.kt
     visible: true
     learner_created: false
   - name: partId

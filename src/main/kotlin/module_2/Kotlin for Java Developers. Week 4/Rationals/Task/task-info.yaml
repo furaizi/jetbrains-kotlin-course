@@ -1,9 +1,9 @@
 type: edu
 files:
-  - name: src/rationals/Rational.kt
+  - name: ../../../../module_4/assignment/rationals/src/rationals/Rational.kt
     visible: true
     learner_created: false
-  - name: test/rationals/TestRationals.kt
+  - name: ../../../../module_4/assignment/rationals/test/rationals/TestRationals.kt
     visible: true
     learner_created: false
   - name: partId
