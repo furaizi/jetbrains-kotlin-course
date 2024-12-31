@@ -27,4 +27,4 @@ fun main(args: Array<String>) {
 }
 
 // Resource management: "use" function
-fun readFirstLineFromFile(path: String): = BufferedReader(FileReader(path)).use { reader ->  reader.readLine() }
+fun readFirstLineFromFile(path: String) = BufferedReader(FileReader(path)).use { reader ->  reader.readLine() }
