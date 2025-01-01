@@ -2,22 +2,11 @@ package module_5.sequences.playground
 
 import module_5.inline_functions.playground.eq
 
-fun fibonacci(): Sequence<Int> = sequence {
-    var (first, second) = Pair(0, 1)
-    while (true) {
-        if (first < second) {
-            yield(first)
-            first += second
-        }
-        else {
-            yield(second)
-            second += first
-        }
-    }
-}
+fun fibonacci(): Sequence<Int> = generateSequence(0 to 1) { (first, second) ->
+    second to (first + second)
+}.map { it.first }
 
 fun main(args: Array<String>) {
-    println(fibonacci().take(4).toList())
     fibonacci().take(4).toList().toString() eq
             "[0, 1, 1, 2]"
 
