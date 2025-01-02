@@ -76,7 +76,7 @@ First, implement the function `isEven` declared in
 <a href="psi_element://GameOfFifteenHelper.kt">GameOfFifteenHelper.kt</a>
 checking whether a permutation is even or odd.
 Source: <a href="psi_element://GameOfFifteenHelper.kt">GameOfFifteenHelper.kt</a>;
-tests:  <a href="psi_element://games.gameOfFifteen.TestGameOfFifteenHelper">TestGameOfFifteenHelper.kt</a>. 
+tests:  <a href="psi_element://module_5.assignment.games.gameFifteen.test.gameFifteen.TestGameOfFifteenHelper">TestGameOfFifteenHelper.kt</a>. 
 
 You can use the following algorithm to check the given permutation.
 Let `P` is a permutation function on a range of numbers `1..n`.
@@ -89,10 +89,10 @@ it is an odd permutation.
 * Use the `isEven` function to produce only solvable permutations as initial
 permutations.
 Source: <a href="psi_element://GameOfFifteenInitializer.kt">GameOfFifteenInitializer.kt</a>;
-tests:  <a href="psi_element://games.gameOfFifteen.TestGameOfFifteenInitializer">TestGameOfFifteenInitializer.kt</a>.
+tests:  <a href="psi_element://module_5.assignment.games.gameFifteen.test.gameFifteen.TestGameOfFifteenInitializer">TestGameOfFifteenInitializer.kt</a>.
 
 * Implement the `GameOfFifteen` class from scratch describing the game process.
 It should implement the `Game` interface and make use of `initializer` argument.
 Note that this argument is used in tests to provide a different initial permutation.
 Source: <a href="psi_element://GameOfFifteen.kt">GameOfFifteen.kt</a>;
-tests:  <a href="psi_element://games.gameOfFifteen.TestGameOfFifteen">TestGameOfFifteen.kt</a>.
+tests:  <a href="psi_element://module_5.assignment.games.gameFifteen.test.gameFifteen.TestGameOfFifteen">TestGameOfFifteen.kt</a>.

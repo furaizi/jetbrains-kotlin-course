@@ -1,16 +1,16 @@
 type: edu
 files:
-  - name: src/board/Board.kt
+  - name: ../../../../module_5/assignment/board/src/board/Board.kt
     visible: true
     learner_created: false
-  - name: src/board/BoardImpl.kt
+  - name: ../../../../module_5/assignment/board/src/board/BoardImpl.kt
     visible: true
     placeholders:
       - offset: 90
         length: 2079
         placeholder_text: TODO()
         initial_state:
-          length: 6
+          length: 2079
           offset: 90
         initialized_from_dependency: false
         selected: true
@@ -20,153 +20,153 @@ files:
         placeholder_text: TODO()
         initial_state:
           length: 6
-          offset: 149
+          offset: 2222
         initialized_from_dependency: false
         selected: true
         status: Unchecked
     learner_created: false
-  - name: src/games/game/Game.kt
+  - name: ../../../../module_5/assignment/games/game/src/game/Game.kt
     visible: true
     learner_created: false
-  - name: src/games/game2048/Game2048.kt
+  - name: ../../../../module_5/assignment/games/game2048/src/game2048/Game2048.kt
     visible: true
     placeholders:
-      - offset: 1223
+      - offset: 1372
         length: 92
         placeholder_text: TODO()
         initial_state:
-          length: 6
-          offset: 1227
+          length: 92
+          offset: 1372
         initialized_from_dependency: false
         selected: true
         status: Unchecked
-      - offset: 1782
+      - offset: 1931
         length: 280
         placeholder_text: TODO()
         initial_state:
-          length: 6
-          offset: 1705
+          length: 280
+          offset: 1931
         initialized_from_dependency: false
         selected: true
         status: Unchecked
-      - offset: 2399
+      - offset: 2548
         length: 734
         placeholder_text: TODO()
         initial_state:
-          length: 6
-          offset: 2052
+          length: 734
+          offset: 2548
         initialized_from_dependency: false
         selected: true
         status: Unchecked
     learner_created: false
-  - name: src/games/game2048/Game2048Helper.kt
+  - name: ../../../../module_5/assignment/games/game2048/src/game2048/Game2048Helper.kt
     visible: true
     placeholders:
       - offset: 721
         length: 280
         placeholder_text: TODO()
         initial_state:
-          length: 6
-          offset: 730
+          length: 280
+          offset: 721
         initialized_from_dependency: false
         selected: true
         status: Unchecked
     learner_created: false
-  - name: src/games/game2048/Game2048Initializer.kt
+  - name: ../../../../module_5/assignment/games/game2048/src/game2048/Game2048Initializer.kt
     visible: true
     placeholders:
-      - offset: 820
+      - offset: 880
         length: 193
         placeholder_text: TODO()
         initial_state:
-          length: 6
-          offset: 820
+          length: 193
+          offset: 880
         initialized_from_dependency: false
         selected: true
         status: Unchecked
     learner_created: false
-  - name: src/games/gameOfFifteen/GameOfFifteen.kt
+  - name: ../../../../module_5/assignment/games/gameFifteen/src/gameFifteen/GameOfFifteen.kt
     visible: true
     placeholders:
-      - offset: 385
+      - offset: 504
         length: 1122
         placeholder_text: TODO()
         initial_state:
-          length: 6
-          offset: 385
+          length: 1122
+          offset: 504
         initialized_from_dependency: false
         selected: true
         status: Unchecked
     learner_created: false
-  - name: src/games/gameOfFifteen/GameOfFifteenHelper.kt
+  - name: ../../../../module_5/assignment/games/gameFifteen/src/gameFifteen/GameOfFifteenHelper.kt
     visible: true
     placeholders:
       - offset: 480
         length: 214
         placeholder_text: TODO()
         initial_state:
-          length: 6
+          length: 214
           offset: 480
         initialized_from_dependency: false
         selected: true
         status: Unchecked
     learner_created: false
-  - name: src/games/gameOfFifteen/GameOfFifteenInitializer.kt
+  - name: ../../../../module_5/assignment/games/gameFifteen/src/gameFifteen/GameOfFifteenInitializer.kt
     visible: true
     placeholders:
       - offset: 580
         length: 160
         placeholder_text: TODO()
         initial_state:
-          length: 6
-          offset: 576
+          length: 160
+          offset: 580
         initialized_from_dependency: false
         selected: true
         status: Unchecked
     learner_created: false
-  - name: src/games/ui/PlayGame.kt
+  - name: ../../../../module_5/assignment/games/ui/src/ui/PlayGame.kt
     visible: true
     learner_created: false
-  - name: src/games/ui/PlayGame2048.kt
+  - name: ../../../../module_5/assignment/games/ui/src/ui/PlayGame2048.kt
     visible: true
     learner_created: false
-  - name: src/games/ui/PlayGameOfFifteen.kt
+  - name: ../../../../module_5/assignment/games/ui/src/ui/PlayGameOfFifteen.kt
     visible: true
     learner_created: false
-  - name: test/games/game2048/AbstractTestGameWithSmallNumbers.kt
+  - name: ../../../../module_5/assignment/games/game2048/test/game2048/AbstractTestGameWithSmallNumbers.kt
     visible: true
     learner_created: false
-  - name: test/games/game2048/TestAddingValue.kt
+  - name: ../../../../module_5/assignment/games/game2048/test/game2048/TestAddingValue.kt
     visible: true
     learner_created: false
-  - name: test/games/game2048/TestGame2048.kt
+  - name: ../../../../module_5/assignment/games/game2048/test/game2048/TestGame2048.kt
     visible: true
     learner_created: false
-  - name: test/games/game2048/TestGame2048Helper.kt
+  - name: ../../../../module_5/assignment/games/game2048/test/game2048/TestGame2048Helper.kt
     visible: true
     learner_created: false
-  - name: test/games/game2048/TestGame2048Initializer.kt
+  - name: ../../../../module_5/assignment/games/game2048/test/game2048/TestGame2048Initializer.kt
     visible: true
     learner_created: false
-  - name: test/games/board/TestGameBoard.kt
+  - name: ../../../../module_5/assignment/board/test/board/TestGameBoard.kt
     visible: true
     learner_created: false
-  - name: test/games/gameOfFifteen/TestGameOfFifteen.kt
+  - name: ../../../../module_5/assignment/games/gameFifteen/test/gameFifteen/TestGameOfFifteen.kt
     visible: true
     learner_created: false
-  - name: test/games/gameOfFifteen/TestGameOfFifteenHelper.kt
+  - name: ../../../../module_5/assignment/games/gameFifteen/test/gameFifteen/TestGameOfFifteenHelper.kt
     visible: true
     learner_created: false
-  - name: test/games/gameOfFifteen/TestGameOfFifteenInitializer.kt
+  - name: ../../../../module_5/assignment/games/gameFifteen/test/gameFifteen/TestGameOfFifteenInitializer.kt
     visible: true
     learner_created: false
-  - name: test/games/game2048/TestMoveValues.kt
+  - name: ../../../../module_5/assignment/games/game2048/test/game2048/TestMoveValues.kt
     visible: true
     learner_created: false
-  - name: test/games/game2048/TestMoveValuesInRowOrColumn.kt
+  - name: ../../../../module_5/assignment/games/game2048/test/game2048/TestMoveValuesInRowOrColumn.kt
     visible: true
     learner_created: false
-  - name: test/games/board/TestSquareBoard.kt
+  - name: ../../../../module_5/assignment/board/test/board/TestSquareBoard.kt
     visible: true
     learner_created: false
   - name: partId
