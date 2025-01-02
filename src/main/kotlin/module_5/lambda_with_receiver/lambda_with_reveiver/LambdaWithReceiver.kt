@@ -26,7 +26,7 @@ fun main() {
 
 
     val s: String = buildString {
-        appendln("Alphabet")
+        appendLine("Alphabet")
         'a'..'z'.apply(this::append)
     }
 }
